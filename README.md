@@ -1,6 +1,6 @@
 # PPAI DSI 3k4 -Grupo3
 
-<h2> Grupo N° 3 - Integrantes: </h2>
+<h3> Grupo N° 3 - Integrantes: </h3>
 
 - `Dario Lopez`
 - ` `
@@ -8,8 +8,7 @@
 - ` `
 - ` `
 - ` `
-- ` `
-
+  
 <h2>Descripcion del CU 24 Generar ranking de vinos</h2>
 <img alt="CU 24 Generar ranking de vinos" src="https://github.com/d4riolopez/grupo3PPAI3k4/blob/dario/CU24%20Generar%20ranking%20de%20vinos.png?raw=true" title="CU 24 Generar ranking de vinos"/>
 
